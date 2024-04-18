@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://visitcount.itsvg.in/api?id=bui-cong-nghia&icon=7&color=11" alt="D Fox" /> </p>
+<!--<p align="right"> <img src="https://visitcount.itsvg.in/api?id=bui-cong-nghia&icon=7&color=11" alt="D Fox" /> </p>-->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bui-cong-nghia&label=Profile%20views&color=0e75b6&style=flat" alt="bui-cong-nghia" /> </p>
+
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <div align="center">
