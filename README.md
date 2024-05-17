@@ -33,7 +33,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bui-cong-nghia&layout=compact&border_color=292D3E&hide_border=true&title_color=C792EA&icon_color=89DDFF&bg_color=292D3E&text_color=A6ACCD&hide=ShaderLab,powershell,Mathematica,Ruby,Objective-C,Objective,HLSL" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=bui-cong-nghia&theme=dark&hide_border=false)<br/>)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bcnghia&theme=dark&hide_border=false)<br/>)
 -->
 
 <!-- Source:
