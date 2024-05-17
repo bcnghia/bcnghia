@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=bcnghia&icon=7&color=11" alt="D Fox" /> </p>
-<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=bui-cong-nghia&label=Profile%20views&color=FF0066&style=flat" alt="bui-cong-nghia" /> </p>-->
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=bcnghia&label=Profile%20views&color=FF0066&style=flat" alt="bcnghia" /> </p>-->
 
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
@@ -19,18 +19,18 @@
 <br>
 <div align=center>
   <a href="#" title="D Fox">
-    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api?username=bui-cong-nghia&theme=material-palenight&show_icons=true&border_color=292D3E&hide_border=true" alt="bui-cong-nghia" />
+    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api?username=bcnghia&theme=material-palenight&show_icons=true&border_color=292D3E&hide_border=true" alt="bcnghia" />
   </a>
   <br>
   <a href="#" title="D Fox">
-    <img width="434" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bui-cong-nghia&theme=material-palenight&hide_border=true" alt="bui-cong-nghia" />
+    <img width="434" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bcnghia&theme=material-palenight&hide_border=true" alt="bcnghia" />
   </a>
 </div>
 
 <br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bui-cong-nghia&label=Profile%20views%20preventive&color=FF0066&style=flat" alt="bui-cong-nghia" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bcnghia&label=Profile%20views%20preventive&color=FF0066&style=flat" alt="bcnghia" /> </p>
 <!-- Most used languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bui-cong-nghia&layout=compact&border_color=292D3E&hide_border=true&title_color=C792EA&icon_color=89DDFF&bg_color=292D3E&text_color=A6ACCD&hide=ShaderLab,powershell,Mathematica,Ruby,Objective-C,Objective,HLSL" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcnghia&layout=compact&border_color=292D3E&hide_border=true&title_color=C792EA&icon_color=89DDFF&bg_color=292D3E&text_color=A6ACCD&hide=ShaderLab,powershell,Mathematica,Ruby,Objective-C,Objective,HLSL" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bcnghia&theme=dark&hide_border=false)<br/>)
