@@ -1,14 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bcnghia.visitor-badge" />
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Naomi+Le" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Cong+Nghia" alt="Typing SVG" /></a>
 </h1>
 
-- 👋 Hi, I’m @NaomiLe1811
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on making video games
-- 📫 How to reach me: thaonguyenle1811@gmail.com
+- 📫 How to reach me: bcongnghia2310@gmail.com
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/nguyen-le-a292331a6/" target="_blank">
