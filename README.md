@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bcnghia.bcnghia" />
 
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=bcnghia&icon=7&color=11" alt="D Fox" /> </p>
 <!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=bcnghia&label=Profile%20views&color=FF0066&style=flat" alt="bcnghia" /> </p>-->
