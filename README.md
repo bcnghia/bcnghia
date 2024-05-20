@@ -2,12 +2,10 @@
 
 <!--<p align="right"> <img src="https://visitcount.itsvg.in/api?id=bcnghia&icon=7&color=11" alt="D Fox" /> </p>-->
 <!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=bcnghia&label=Profile%20views&color=FF0066&style=flat" alt="bcnghia" /> </p>-->
-
+<p align="center"> <img src="https://raw.githubusercontent.com/bcnghia/bcnghia/main/Resources/DripBanner.png" alt="Top banner"/> </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=BF94E4&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+Cong+Nghia+.+.+.;Nice+to+meet+you!" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=BF94E4&center=true&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+Cong+Nghia+.+.+.;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
-
-- 📫 How to reach me: bcongnghia2310@gmail.com
 
 <!--<div align="left"> 
   <a href="https://www.linkedin.com/in/nguyen-le-a292331a6/" target="_blank">
@@ -18,8 +16,11 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <div align="center">
-  <h3>Hi 👋, I'm Cong Nghia</h3>
-  <h2>An IT student from Vietnam</h2>
+    <h1 align="center"> Hi 
+        <img src="https://raw.githubusercontent.com/bcnghia/bcnghia/master/Resources/wave.gif" alt="Waving hand animated gif" width="40"/>,
+   I'm <b>Cong Nghia😄</b></h1> 
+    <h2>An IT studen from Vietnam</h2>
+  
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -43,6 +44,8 @@
 
 <br>
 <!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=bcnghia&label=Profile%20views%20preventive&color=bf94e4&style=flat" alt="D Fox" /> </p>-->
+
+- 📫 How to reach me: bcongnghia2310@gmail.com
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=bcnghia&icon=7&color=11" alt="D Fox" /> </p>
 <!-- Most used languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcnghia&layout=compact&border_color=292D3E&hide_border=true&title_color=C792EA&icon_color=89DDFF&bg_color=292D3E&text_color=A6ACCD&hide=ShaderLab,powershell,Mathematica,Ruby,Objective-C,Objective,HLSL" />
