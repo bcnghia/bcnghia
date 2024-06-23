@@ -46,6 +46,7 @@
 <!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=bcnghia&label=Profile%20views%20preventive&color=bf94e4&style=flat" alt="D Fox" /> </p>-->
 
 - 📫 How to reach me: bcongnghia2310@gmail.com
+- CodeGPT invite: [bcnghia2310](https://app.codegpt.co/r/bcnghia2310)
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=bcnghia&icon=7&color=11" alt="D Fox" /> </p>
 <!-- Most used languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcnghia&layout=compact&border_color=292D3E&hide_border=true&title_color=C792EA&icon_color=89DDFF&bg_color=292D3E&text_color=A6ACCD&hide=ShaderLab,powershell,Mathematica,Ruby,Objective-C,Objective,HLSL" />
